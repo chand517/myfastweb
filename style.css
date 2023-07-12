@@ -1,0 +1,63 @@
+body{
+    background-color: aqua;
+
+
+}
+h1{
+    color: white;
+}
+.navbar{
+    width: 100%;
+    background-color: #ccc;
+    /* overflow: scroll; */
+    
+}
+.navbar{
+  max-width: 10 10 10 50;
+float: left;
+padding: 20px;
+color: white;
+  font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color:blue;
+}
+.navbar a:hover {
+    background-color: white;
+  }
+  .active {
+    background-color: #04AA6D;
+  }
+  .menu{
+    color: red;
+  }
+  .menu{
+        float: left;
+        padding: 20px;
+        color: aliceblue;
+          font-size: 20px;
+  }
+  .menu a:hover {
+    background-color:white;
+  }
+  .para1{
+    font-size: x-large;
+    border-top-left-radius: 0cqmax;
+  }
+  h2{
+    border: solid;
+    background-color: red;
+    text-align: center;
+  }
+  /* #ul1,#ul2{
+    text-align: center;
+  } */
+  .para2{
+    border: solid;
+    border-right: black;
+    background-color: #ff0000;
+    text-align: center;
+
+  }
+  
